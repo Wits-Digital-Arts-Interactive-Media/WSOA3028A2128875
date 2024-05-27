@@ -1,4 +1,4 @@
-body {
+.body {
     color: #dadada;
 }
 
@@ -43,7 +43,7 @@ p {
     
 }
 
-.footer {
+footer {
     background-color: #4f5a66;
     color: #fff;
     padding: 6px;
